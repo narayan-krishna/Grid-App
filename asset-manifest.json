@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Grid-App/static/css/main.ad9bccde.chunk.css",
+    "main.js": "/Grid-App/static/js/main.9af45b2a.chunk.js",
+    "main.js.map": "/Grid-App/static/js/main.9af45b2a.chunk.js.map",
+    "runtime-main.js": "/Grid-App/static/js/runtime-main.919c4e20.js",
+    "runtime-main.js.map": "/Grid-App/static/js/runtime-main.919c4e20.js.map",
+    "static/js/2.510d6655.chunk.js": "/Grid-App/static/js/2.510d6655.chunk.js",
+    "static/js/2.510d6655.chunk.js.map": "/Grid-App/static/js/2.510d6655.chunk.js.map",
+    "static/js/3.70e5adb6.chunk.js": "/Grid-App/static/js/3.70e5adb6.chunk.js",
+    "static/js/3.70e5adb6.chunk.js.map": "/Grid-App/static/js/3.70e5adb6.chunk.js.map",
+    "index.html": "/Grid-App/index.html",
+    "static/css/main.ad9bccde.chunk.css.map": "/Grid-App/static/css/main.ad9bccde.chunk.css.map",
+    "static/js/2.510d6655.chunk.js.LICENSE.txt": "/Grid-App/static/js/2.510d6655.chunk.js.LICENSE.txt",
+    "static/media/info.d2a0c3c2.svg": "/Grid-App/static/media/info.d2a0c3c2.svg",
+    "static/media/next-button.868c9d9d.svg": "/Grid-App/static/media/next-button.868c9d9d.svg",
+    "static/media/pause-button.04b0e170.svg": "/Grid-App/static/media/pause-button.04b0e170.svg",
+    "static/media/play-button.756c2bf4.svg": "/Grid-App/static/media/play-button.756c2bf4.svg",
+    "static/media/rolling-dices.63298bce.svg": "/Grid-App/static/media/rolling-dices.63298bce.svg",
+    "static/media/vacuum-cleaner.033c6622.svg": "/Grid-App/static/media/vacuum-cleaner.033c6622.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.919c4e20.js",
+    "static/js/2.510d6655.chunk.js",
+    "static/css/main.ad9bccde.chunk.css",
+    "static/js/main.9af45b2a.chunk.js"
+  ]
+}
