@@ -1,0 +1,6 @@
+game of life
+brians brain
+djikstras
+
+navigation system
+drag to place functionality
